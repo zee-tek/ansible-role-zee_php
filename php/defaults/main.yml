@@ -1,9 +1,0 @@
----
-# defaults file for php
-# defaults/main.yml
-php_packages:
-  - php
-  - php-cli
-  - php-fpm
-  - php-mysql
-
